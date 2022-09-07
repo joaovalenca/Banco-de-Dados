@@ -1,2 +1,2 @@
 # Banco-de-Dados
-Consultas e Criação e um BD
+Consultas e Criação e um BD com SQL Server
